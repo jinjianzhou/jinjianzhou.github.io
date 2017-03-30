@@ -1,2 +1,2 @@
-# jinjianzhou.github.io
+# jjchou-comphy.github.io
 My personal website
